@@ -83,11 +83,11 @@ Crypto currecny is the future of the finance world and its popularity is increas
 - (https://www.coindesk.com/coinbase-existing-valuation-doesnt-need-ipo-lawyer-says)
 - (https://blog.coinbase.com/building-state-of-the-art-machine-learning-technology-with-efficient-execution-for-the-crypto-ad10896a48a)
 - (https://www.bqintel.com/post/coinbase-revenue-profit-2019#:~:text=Our%20estimates%20show%20that%20Coinbase,of%20%24146m%20in%202019.&text=Sticking%20to%20the%20analysis%20above,with%20the%20industry's%20top%20players.)
-[title](https://www.zoominfo.com/c/coinbase-inc/398692630)
-[title](https://www.ig.com/en/news-and-trade-ideas/shares-news/coinbase-reportedly-valued-at--8-billion--what-you-need-to-know--181022)
-[title](https://www.investopedia.com/ask/answers/100314/what-are-advantages-paying-bitcoin.asp)
-[title](https://www.dailyforex.com/coinbase/coinbase-review/3464#fees)
-[title](https://www.moneycrashers.com/emv-chip-credit-cards-technology-security/#:~:text=EMV%20stands%20for%20%E2%80%9CEuropay%2C%20MasterCard,for%20U.S.%20consumers)%20American%20Express.)
+- (https://www.zoominfo.com/c/coinbase-inc/398692630)
+- (https://www.ig.com/en/news-and-trade-ideas/shares-news/coinbase-reportedly-valued-at--8-billion--what-you-need-to-know--181022)
+- (https://www.investopedia.com/ask/answers/100314/what-are-advantages-paying-bitcoin.asp)
+- (https://www.dailyforex.com/coinbase/coinbase-review/3464#fees)
+- (https://www.moneycrashers.com/emv-chip-credit-cards-technology-security/#:~:text=EMV%20stands%20for%20%E2%80%9CEuropay%2C%20MasterCard,for%20U.S.%20consumers)%20American%20Express.)
 
 
 

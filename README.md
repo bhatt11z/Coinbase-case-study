@@ -76,13 +76,13 @@ Crypto currecny is the future of the finance world and its popularity is increas
 
 
 ## Sources
-[title](https://en.wikipedia.org/wiki/Coinbase)
-[title](https://www.cbinsights.com/research/report/coinbase-strategy-teardown/)
-[title](https://stackshare.io/coinbase/stackups)
-[title](https://www.nasdaq.com/articles/top-10-trends-in-wealth-management-2020-01-31)
-[title](https://www.coindesk.com/coinbase-existing-valuation-doesnt-need-ipo-lawyer-says)
-[title](https://blog.coinbase.com/building-state-of-the-art-machine-learning-technology-with-efficient-execution-for-the-crypto-ad10896a48a)
-[title](https://www.bqintel.com/post/coinbase-revenue-profit-2019#:~:text=Our%20estimates%20show%20that%20Coinbase,of%20%24146m%20in%202019.&text=Sticking%20to%20the%20analysis%20above,with%20the%20industry's%20top%20players.)
+- (https://en.wikipedia.org/wiki/Coinbase)
+- (https://www.cbinsights.com/research/report/coinbase-strategy-teardown/)
+- (https://stackshare.io/coinbase/stackups)
+- (https://www.nasdaq.com/articles/top-10-trends-in-wealth-management-2020-01-31)
+- (https://www.coindesk.com/coinbase-existing-valuation-doesnt-need-ipo-lawyer-says)
+- (https://blog.coinbase.com/building-state-of-the-art-machine-learning-technology-with-efficient-execution-for-the-crypto-ad10896a48a)
+- (https://www.bqintel.com/post/coinbase-revenue-profit-2019#:~:text=Our%20estimates%20show%20that%20Coinbase,of%20%24146m%20in%202019.&text=Sticking%20to%20the%20analysis%20above,with%20the%20industry's%20top%20players.)
 [title](https://www.zoominfo.com/c/coinbase-inc/398692630)
 [title](https://www.ig.com/en/news-and-trade-ideas/shares-news/coinbase-reportedly-valued-at--8-billion--what-you-need-to-know--181022)
 [title](https://www.investopedia.com/ask/answers/100314/what-are-advantages-paying-bitcoin.asp)

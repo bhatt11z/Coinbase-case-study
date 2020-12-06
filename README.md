@@ -40,6 +40,7 @@ Major companies in wealth managment:
 ## Results
 
 Since launching Coinbase has grown rapidly and currently has the valuation of $8 Billion USD.
-- Profitabilty
-    - ![alt text](https://www.bqintel.com/post/coinbase-revenue-profit-2019#:~:text=Our%20estimates%20show%20that%20Coinbase,of%20%24146m%20in%202019.&text=Sticking%20to%20the%20analysis%20above,with%20the%20industry's%20top%20players.)
-    
+### Profitability
+![alt text](https://static.wixstatic.com/media/c5315e_90294fa214ce48bdafb1fcc886502d44~mv2.png/v1/fill/w_1480,h_891,al_c,q_90,usm_0.66_1.00_0.01/c5315e_90294fa214ce48bdafb1fcc886502d44~mv2.webp)
+
+

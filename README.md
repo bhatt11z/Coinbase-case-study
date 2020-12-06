@@ -49,6 +49,50 @@ Since launching Coinbase has grown rapidly and currently has the valuation of $8
 ### Staffing
 ![alt text](https://static.wixstatic.com/media/c5315e_3defa878769b479a9b9c804767338895~mv2.png/v1/fill/w_1480,h_891,al_c,q_90,usm_0.66_1.00_0.01/c5315e_3defa878769b479a9b9c804767338895~mv2.webp)
 
+### Users
+![alt text](https://cbi-research-portal-uploads.s3.amazonaws.com/2018/01/24171453/2018.01.18-Coinbase-Users.png)
+
+### Competitor analysis
+
+- Competitors
+    - River Financial
+    - OST.com
+    - Block Chain
+    - Paxos
+    - Bifinex
+    - Xapo
+    - Binance
+
+Coinbase has been performing well as compared to its competitors. It had a revenue of $1 Billion in 2018 ,while its competitor Bifinex earned $ 200 million. Similarly, its users grew to 20 million in 2019 as compared to Binance which had 10 million users in 2019. Coinbase is also the top employeer among its competitors by having 1.5k plus personnel.
+
+- Social engagement
+    - Coinbase : 29350 Articals
+    - Coindesk : 27245 Articals
+    - Bitcoin.com : 9109 Articals
+
+### Conclusion
+
+Crypto currecny is the future of the finance world and its popularity is increasing at an exponential rate. Crypto currency provides user autonomy, discretion, low transaction fee and easy accessibilty. Major investors who used to invest in traditional financial products are now including crpyto currency in their portfolio. Currently coinbase operates in only three currecies USD, GBP and Euro. It needs to increase the number of curreincies so that foriegn exchange exposure is reduced. This will help the company to reduce its fees as well as increase its customer base. Additonally, Coinbase should intorduce payment services like credit cards which use EMV smart chip and are acceptable at point of sale terimnals. Through this, a user will be able to use their coinbase account as chequing/saving account and will be able to do foriegn transactions at a lower cost due to crypto currency. In order to achieve this, Coinbase needs to collaborate with credit card manufactures like Euro pay, Mastercard and Visa. Crypto currency market is still in its early stages and introdcution of everyday banking services by Coinbase will help them get early mover advantage and revenue growth. Coinbase is considered safer harbor among crypto exchnages and it can leverage its image to attract customers for its new credit card service.
+
+
+## Sources
+[title](https://en.wikipedia.org/wiki/Coinbase)
+[title](https://www.cbinsights.com/research/report/coinbase-strategy-teardown/)
+[title](https://stackshare.io/coinbase/stackups)
+[title](https://www.nasdaq.com/articles/top-10-trends-in-wealth-management-2020-01-31)
+[title](https://www.coindesk.com/coinbase-existing-valuation-doesnt-need-ipo-lawyer-says)
+[title](https://blog.coinbase.com/building-state-of-the-art-machine-learning-technology-with-efficient-execution-for-the-crypto-ad10896a48a)
+[title](https://www.bqintel.com/post/coinbase-revenue-profit-2019#:~:text=Our%20estimates%20show%20that%20Coinbase,of%20%24146m%20in%202019.&text=Sticking%20to%20the%20analysis%20above,with%20the%20industry's%20top%20players.)
+[title](https://www.zoominfo.com/c/coinbase-inc/398692630)
+[title](https://www.ig.com/en/news-and-trade-ideas/shares-news/coinbase-reportedly-valued-at--8-billion--what-you-need-to-know--181022)
+[title](https://www.investopedia.com/ask/answers/100314/what-are-advantages-paying-bitcoin.asp)
+[title](https://www.dailyforex.com/coinbase/coinbase-review/3464#fees)
+[title](https://www.moneycrashers.com/emv-chip-credit-cards-technology-security/#:~:text=EMV%20stands%20for%20%E2%80%9CEuropay%2C%20MasterCard,for%20U.S.%20consumers)%20American%20Express.)
+
+
+
+
+
 
 
 

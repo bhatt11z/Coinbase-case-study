@@ -43,4 +43,13 @@ Since launching Coinbase has grown rapidly and currently has the valuation of $8
 ### Profitability
 ![alt text](https://static.wixstatic.com/media/c5315e_90294fa214ce48bdafb1fcc886502d44~mv2.png/v1/fill/w_1480,h_891,al_c,q_90,usm_0.66_1.00_0.01/c5315e_90294fa214ce48bdafb1fcc886502d44~mv2.webp)
 
+### Trading Volumes
+![alt text](https://static.wixstatic.com/media/c5315e_470148532d1c445788ad9818ee222774~mv2.png/v1/fill/w_1480,h_924,al_c,q_90,usm_0.66_1.00_0.01/c5315e_470148532d1c445788ad9818ee222774~mv2.webp)
+
+### Staffing
+![alt text](https://static.wixstatic.com/media/c5315e_3defa878769b479a9b9c804767338895~mv2.png/v1/fill/w_1480,h_891,al_c,q_90,usm_0.66_1.00_0.01/c5315e_3defa878769b479a9b9c804767338895~mv2.webp)
+
+
+
+
 
